@@ -1,0 +1,9 @@
+C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\Definitions.Indian_Tales.h
+D:\Epic Store\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Store\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Source\Indian_Tales/Indian_TalesGameModeBase.h
+D:\Epic Store\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Epic Store\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Epic Store\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Epic Store\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\heitor amor\documents\indian tales\indian_tales\intermediate\build\win64\ue4editor\inc\indian_tales\Indian_TalesGameModeBase.generated.h
