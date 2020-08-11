@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Indian_Tales.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1A9560FA-759F-4548-A771-BA9157E7AAD9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Indian_Tales.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Indian_TalesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3E12F562-7E69-4971-8DDA-5F4F40334B6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Indian_Tales">
+      <UniqueIdentifier>{50276050-870D-4234-96FE-D40A8D780149}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Indian_Tales\Indian_Tales.Build.cs">
+      <Filter>Source\Indian_Tales</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Indian_Tales\Indian_Tales.cpp">
+      <Filter>Source\Indian_Tales</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Indian_Tales\Indian_Tales.h">
+      <Filter>Source\Indian_Tales</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Indian_Tales\Indian_TalesGameModeBase.cpp">
+      <Filter>Source\Indian_Tales</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Indian_Tales\Indian_TalesGameModeBase.h">
+      <Filter>Source\Indian_Tales</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

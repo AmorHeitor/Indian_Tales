@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Indian_Tales",
+			"Path": "C:\\Users\\Heitor Amor\\Documents\\Indian Tales\\Indian_Tales\\Source\\Indian_Tales.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Indian_TalesEditor",
+			"Path": "C:\\Users\\Heitor Amor\\Documents\\Indian Tales\\Indian_Tales\\Source\\Indian_TalesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

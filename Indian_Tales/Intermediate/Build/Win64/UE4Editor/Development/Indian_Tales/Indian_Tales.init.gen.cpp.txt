@@ -1,0 +1,3 @@
+C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\Definitions.Indian_Tales.h
+D:\Epic Store\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Store\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

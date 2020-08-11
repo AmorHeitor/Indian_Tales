@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Indian_Tales.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\Indian_TalesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\Indian_Tales.cpp.obj"
+"C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\Indian_TalesGameModeBase.cpp.obj"
+"C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\Indian_Tales.init.gen.cpp.obj"
+"C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\Indian_TalesGameModeBase.gen.cpp.obj"
+"C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\Default.rc2.res"
+/OUT:"C:\Users\Heitor Amor\Documents\Indian Tales\Indian_Tales\Intermediate\Build\Win64\UE4Editor\Development\Indian_Tales\UE4Editor-Indian_Tales.lib"
+/INCLUDE:IMPLEMENT_MODULE_Indian_Tales
